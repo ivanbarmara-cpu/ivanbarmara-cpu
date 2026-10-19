@@ -1,16 +1,15 @@
-## Hi there 👋
+### ¡Hola, qué tal! 👋 Soy Iván Barquero
 
-<!--
-**ivanbarmara-cpu/ivanbarmara-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de **2º de GS de Desarrollo de Aplicaciones Web (DAW)** en el [IES Francisco Ayala](https://iesfranciscoayala.com/). Me apasiona el desarrollo de software, la creación de páginas web y todo lo relacionado con la tecnología.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mí
+- 💻 Actualmente formándome a tope en desarrollo web (tanto frontend como backend).
+- 🛠️ Mis herramientas de batalla habituales incluyen tecnologías web modernas y control de versiones con Git.
+- 🎯 Buscando siempre aprender nuevas formas de optimizar código y crear aplicaciones útiles.
+
+---
+
+### 📊 Tecnologías y Herramientas
+*(Aquí puedes ir añadiendo los lenguajes y tecnologías que vayas usando en clase o por tu cuenta)*
