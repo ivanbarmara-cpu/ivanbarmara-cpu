@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! Soy Iván Barquero 👋</h1>
 
 <p align="center">
-  💻 Estudiante de <strong>2º de GS de Desarrollo de Aplicaciones Web (DAW)</strong> en el <a href="https://iesfranciscoayala.com/" target="_blank">IES Francisco Ayala</a>.
+  💻 Estudiante de <strong>2º de GS de Desarrollo de Aplicaciones Web (DAW)</strong> en el IES Francisco Ayala.
   <br>
   🚀 Apasionado por la tecnología, el código limpio y en constante aprendizaje.
 </p>
